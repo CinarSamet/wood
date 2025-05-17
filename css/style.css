@@ -943,7 +943,7 @@ h6 a:hover{
 }
 .project-section .project-top{
   position: relative;
-  background-image: url('../../../resimler/logolar/project_section.png');
+  background-image: url('../resimler/logolar/project_section.png');
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1570,7 +1570,7 @@ textarea:focus{
 
 .main-footer{
   position: relative;
-  background-image: url('../../../resimler/logolar/project_section.png');
+  background-image: url('../resimler/logolar/project_section.png');
   width: 100%;
   background-size: cover;
   background-position: center center;
