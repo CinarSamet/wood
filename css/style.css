@@ -869,6 +869,7 @@ h6 a:hover{
   position: relative;
   padding: 51px 135px 54px 135px;
   background: #da8e3c;
+  margin-bottom: 40px;
 }
 .call-to-action:before{
   position: absolute;
@@ -1527,12 +1528,13 @@ textarea:focus{
 .call-out{
   position: relative;
   color: #fff;
-  background: url(../images/home/1.jpg);
+  background: url(../resimler/logolar/project_section.png);
   width: 100%;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   padding: 88px 0px 98px 0px;
+  margin-bottom: 40px;
 }
 .call-out:before{
   position: absolute;
@@ -1708,7 +1710,7 @@ textarea:focus{
 
 .page-title{
   position: relative;
-  background: url(../images/about/bg.jpg);
+  background: url(../resimler/logolar/project_section.png);
   width: 100%;
   background-size: cover;
   background-position: center center;
